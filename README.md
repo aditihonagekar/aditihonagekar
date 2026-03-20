@@ -116,6 +116,5 @@ Proof that I know how to make things people actually show up for.
 
 ---
 
-*"I don't just want to understand AI. I want to build with it."*
+*"I don't just want to understand AI. I want to build it."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=aditihonagekar&color=0A7EA4&style=flat)
