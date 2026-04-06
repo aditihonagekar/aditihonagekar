@@ -27,9 +27,9 @@
 
 | Project | What it does | Stack | Impact |
 | --- | --- | --- | --- |
-| **[MenoMap](https://github.com/aditihonagekar/MenoMap)** | AI health companion for women navigating menopause & PCOS | Python · Flask · scikit-learn · React Native | Personalized diet engine + doctor-ready health reports |
+| **[MenoMap](https://github.com/aditihonagekar/MenoMap-Companion-for-Hormonal-Health)** | AI health companion for women navigating menopause & PCOS | Python · Flask · scikit-learn · React Native | Personalized diet engine + doctor-ready health reports |
 | **[RakshaMed](https://github.com/aditihonagekar/RakshaMed)** | Family-centric health app with AI emotional support chatbot | HTML · CSS · JavaScript | 🥉 3rd Place + Healthcare Domain Winner, Code Automata (60+ teams) |
-| **[AgroConnect](https://github.com/aditihonagekar/agroconnect)** | Crop recommendation system for farmers | HTML · CSS · JavaScript · Python | Multi-language support · Real-time weather forecasting |
+| **[AgroConnect](https://github.com/aditihonagekar/Agro_Connect-)** | Crop recommendation system for farmers | HTML · CSS · JavaScript · Python | Multi-language support · Real-time weather forecasting |
 | **[Pet Daycare Chatbot](https://github.com/aditihonagekar/chatbot)** | Chatbot for finding nearby pet daycare centers | HTML · JavaScript | Location-aware recommendations |
 
 ---
